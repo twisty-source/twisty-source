@@ -4,9 +4,6 @@
 
 <br/>
 
-```text
-"Код, вкус и эго. Одобрение не требуется."
-```
 
 <p align="center">
   <a href="https://twisty.website" target="_blank">
